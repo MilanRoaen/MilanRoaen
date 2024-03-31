@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Digitale Vormgeving
 - 📫 How to reach me via email milan.roaen04@gmail.com
 - 😄 Pronouns: He
-
+- programma's waar ik bekend bij ben is photoshop, indesign, premiere pro.
 
 <!---
 MilanRoaen/MilanRoaen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
